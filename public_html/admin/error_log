@@ -1,0 +1,7 @@
+[19-Sep-2021 04:27:35 UTC] PHP Notice:  Undefined index: brandid in /home/wwwhnsho/public_html/admin/brandedit.php on line 7
+[19-Sep-2021 04:27:35 UTC] PHP Notice:  Undefined variable: id in /home/wwwhnsho/public_html/admin/brandedit.php on line 32
+[19-Sep-2021 04:27:54 UTC] PHP Notice:  Undefined index: brandid in /home/wwwhnsho/public_html/admin/brandedit.php on line 7
+[19-Sep-2021 04:27:54 UTC] PHP Notice:  Undefined variable: id in /home/wwwhnsho/public_html/admin/brandedit.php on line 32
+[19-Sep-2021 04:28:36 UTC] PHP Notice:  Undefined index: brandid in /home/wwwhnsho/public_html/admin/brandedit.php on line 7
+[19-Sep-2021 04:28:36 UTC] PHP Notice:  Undefined variable: id in /home/wwwhnsho/public_html/admin/brandedit.php on line 32
+[04-Oct-2021 05:24:50 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/wwwhnsho/public_html/lib/session.php on line 48
